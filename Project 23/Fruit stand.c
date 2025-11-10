@@ -42,10 +42,12 @@ void main()
     {
         p("\n\nNo profit possible for the trend");
     }
+    printf("\n\n\nThis Program was Developed By Shrey Dharmesh Dhameliya_25CE024_");
 
 
 
 }
+
 
 
 
