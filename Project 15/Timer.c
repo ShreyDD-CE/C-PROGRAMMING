@@ -9,4 +9,5 @@ void main()
         printf("\n\tTime left: %d",t);
         sleep(1);
     } printf("\n\n\tTimes up!!");
+printf("\n\n\nThis Program was Developed By Shrey Dharmesh Dhameliya_25CE024_");
 }
