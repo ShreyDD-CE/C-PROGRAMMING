@@ -8,4 +8,6 @@ void main()
         printf("\nCurrent Water level: %d",Capacity);
         sleep(1);
     }printf("\n\n\nThe Tank Is Filled!!!");
+    printf("\n\n\nThis Program was Developed By Shrey Dharmesh Dhameliya_25CE024_");
 }
+
