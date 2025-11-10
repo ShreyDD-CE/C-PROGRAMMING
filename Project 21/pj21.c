@@ -39,4 +39,6 @@ void main()
      p("\nThe number of negative entries \t:%d",neg);
      p("\nThe number of even entries     \t:%d",eve);
      p("\nThe number of odd entries      \t:%d",odd);
+     printf("\n\n\nThis Program was Developed By Shrey Dharmesh Dhameliya_25CE024_"); 
 }
+
