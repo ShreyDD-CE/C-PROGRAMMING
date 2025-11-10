@@ -40,4 +40,6 @@ double Area(double a,double b,double c)
       p("Enter The Third Side:");
       s("%lf",&c);
       Validation(a,b,c);
+      printf("\n\n\nThis Program was Developed By Shrey Dharmesh Dhameliya_25CE024_");
   }
+
